@@ -1,2 +1,2 @@
-# BBC_News_Project_1
-The project involves three main parts: web scraping news articles from BBC News, generating SQL-based insights, and performing exploratory data analysis (EDA) with visualizations using Python.
+# IMDB_Top_Charts_Project
+This project demonstrates a complete data analysis workflow, from data acquisition to visualization, using real-world data from IMDB. It showcases techniques for web scraping, data manipulation, SQL querying, and data visualization, providing valuable insights into the top-rated movies on IMDB.
